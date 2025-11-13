@@ -3,7 +3,6 @@
 ## Project Overview
 ShipmentSure is a machine learning project focused on predicting whether shipments will arrive on time using supplier and order data. The system aims to enhance supply chain efficiency by identifying key factors that cause delays and enabling proactive logistics planning. This project applies data cleaning, exploratory data analysis, feature engineering, and predictive modeling to minimize shipment delays and improve overall delivery performance.
 
-
 ## Objective
 To build a robust predictive model that accurately forecasts on-time shipment delivery using various supplier and shipment attributes.
 
