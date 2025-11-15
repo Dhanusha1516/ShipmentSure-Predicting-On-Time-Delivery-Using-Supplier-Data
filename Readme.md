@@ -1,5 +1,6 @@
 # ShipmentSure - Predicting On-Time Delivery Using Supplier Data
 
+[factory-truck-shop-location-3d-graphics-2535787473.htm](https://github.com/user-attachments/files/23559202/factory-truck-shop-location-3d-graphics-2535787473.htm)
 ## Project Overview
 ShipmentSure is a machine learning project focused on predicting whether shipments will arrive on time using supplier and order data. The system aims to enhance supply chain efficiency by identifying key factors that cause delays and enabling proactive logistics planning. This project applies data cleaning, exploratory data analysis, feature engineering, and predictive modeling to minimize shipment delays and improve overall delivery performance.
 
